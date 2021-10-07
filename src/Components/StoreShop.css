@@ -1,0 +1,24 @@
+.header{
+    border: 1px solid black;
+    height: 50px;
+    display: flex; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background: #000;
+}
+.image{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top:0px;
+    left: 0px;
+    
+}
+.search{
+    height: 25px;
+    width: 500px;
+    margin-top: 13px;
+    margin-left: 200px;
+}
